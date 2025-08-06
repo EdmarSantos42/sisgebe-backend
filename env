@@ -1,0 +1,6 @@
+PORT=3000
+DB_HOST=seu_host_mysql_online
+DB_USER=seu_usuario_mysql_online
+DB_PASSWORD=sua_senha_mysql_online
+DB_NAME=SGB
+JWT_SECRET=uma_chave_secreta_forte_aqui
